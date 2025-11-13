@@ -23,7 +23,7 @@ The project is built around the **CDC Heart Disease dataset** (`heart_2020_clean
 | File | Description |
 |------|--------------|
 | `heart-disease-prediction_updated.ipynb` | Jupyter notebook for training the models. Handles preprocessing, encoding, scaling, and model evaluation. |
-| `heart_disease_ui.ipynb` | Jupyter notebook containing the Gradio UI for user interaction. Lets users input health parameters and get predictions from trained models. |
+| `HA_UI.ipynb` | Jupyter notebook containing the Gradio UI for user interaction. Lets users input health parameters and get predictions from trained models. |
 | `heart_2020_cleaned.csv` | Cleaned dataset used for model training. |
 | `knn_model.pkl`, `decision_tree_model.pkl` | Saved trained models (generated after running the training notebook). |
 | `transformer.pkl`, `scaler.pkl` | Saved preprocessing pipeline objects used during training (for consistent transformation in the UI). |
@@ -47,8 +47,8 @@ The project is built around the **CDC Heart Disease dataset** (`heart_2020_clean
    - Accepts user inputs for all relevant health features.
    - Transforms user input (encoding + scaling) before prediction.
    - Displays prediction result:  
-     💖 **Not likely to have heart disease**  
-     💔 **Likely to have heart disease**
+     💖 **YEEAHHH!  Not likely to have heart disease**  
+     💔 **OO NO!!!   Likely to have heart disease**
 
 ---
 
