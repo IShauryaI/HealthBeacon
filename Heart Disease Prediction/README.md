@@ -5,13 +5,13 @@
 
 ---
 
-### 📘 Project Overview
+### 📘 Section Overview
 
-This project predicts the likelihood of **heart disease** using two supervised machine learning models:
+This project section predicts the likelihood of **heart disease** using two supervised machine learning models:
 - **K-Nearest Neighbors (KNN)**
 - **Decision Tree Classifier**
 
-The project is built around the **CDC Heart Disease dataset** (`heart_2020_cleaned.csv`) and includes:
+This is built around the **CDC Heart Disease dataset** (`heart_2020_cleaned.csv`) and includes:
 - Data preprocessing (encoding, scaling)
 - Model training, evaluation, and comparison
 - An interactive **Gradio-based UI** for real-time predictions
@@ -66,13 +66,13 @@ Run the `heart-disease-prediction_updated.ipynb` notebook:
 - Saves the following files in the working directory:
   ```
   knn_model.pkl
-  decision_tree_model.pkl
+  dt_model.pkl
   transformer.pkl
   scaler.pkl
   ```
 
 #### 3️⃣ Launch the UI
-Run the `heart_disease_ui.ipynb` notebook:
+Run the `HA_UI.ipynb` notebook:
 - The Gradio interface will appear inline in Jupyter or open in your browser.
 - Input values for all fields and choose either **K-Nearest Neighbors** or **Decision Tree**.
 - View the heart disease prediction instantly.
