@@ -82,5 +82,8 @@ Abhishek Chakrala — Project Supervisor (Industry Partner)
 
 Graduate Student Team — University of Windsor, Fall 2025
 
+<img width="1226" height="698" alt="image" src="https://github.com/user-attachments/assets/12243a67-555b-4527-bacc-58a7ef04d690" />
+
+
 
 **✨ Pranachain is more than a project — it’s a step toward patient-centered, data-driven healthcare.**
