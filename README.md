@@ -2,9 +2,6 @@
 
 <div align="center">
 
-<img width="1600" height="379" alt="309cff82-efe5-4843-b16c-ca48f1c5b9b7" src="https://github.com/user-attachments/assets/a018a098-9737-40c7-a9d9-d2333241771a" />
-
-
 **AI-Powered Disease Prediction with Blockchain Security**
 
 [![University of Windsor](https://img.shields.io/badge/University-of%20Windsor-003DA5?style=for-the-badge)](https://www.uwindsor.ca/)
