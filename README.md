@@ -1,4 +1,3 @@
-<div align="center">
 # Medical MI Platform for PranaChain
 
 <div align="center">
