@@ -1,4 +1,4 @@
-# **Medical MI Platform for PranaChain **
+# Medical MI Platform for PranaChain
 
 <div align="center">
 
