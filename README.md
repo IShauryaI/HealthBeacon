@@ -1,8 +1,11 @@
-# Medical MI Platform for PranaChain
+# Medical MI Platform for Pranachain
+
+<img width="1600" height="379" alt="309cff82-efe5-4843-b16c-ca48f1c5b9b7" src="https://github.com/user-attachments/assets/618d7748-bf0c-406b-a617-6fc8fc083d3a" />
+
 
 <div align="center">
 
-**AI-Powered Disease Prediction with Blockchain Security**
+**ML-Powered Disease Prediction with Blockchain Security**
 
 [![University of Windsor](https://img.shields.io/badge/University-of%20Windsor-003DA5?style=for-the-badge)](https://www.uwindsor.ca/)
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
