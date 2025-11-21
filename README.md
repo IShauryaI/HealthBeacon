@@ -33,16 +33,16 @@
 
 ## **🎯 About**
 
-PranaChain is an innovative healthcare platform that combines **Artificial Intelligence** and **Blockchain Technology** to revolutionize medical diagnosis and patient data management. The platform enables early detection of chronic diseases while ensuring complete patient control over their medical data through blockchain-secured access management.
+PranaChain is an innovative healthcare platform that combines **Machine Learning** and **Blockchain Technology** to revolutionize medical diagnosis and patient data management. The platform enables early detection of chronic diseases while ensuring complete patient control over their medical data through blockchain-secured access management.
 
 ### **Why PranaChain?**
 
 Healthcare data is often siloed, insecure, and inaccessible to those who need it most—patients and practitioners. PranaChain addresses these challenges by:
 
 ✅ **Patient Empowerment** - Patients maintain full ownership and control of their health records  
-✅ **AI-Driven Insights** - Early detection of Chronic Kidney Disease (CKD), Diabetes, and Heart Disease  
+✅ **ML-Driven Insights** - Early detection of Chronic Kidney Disease (CKD), Diabetes, and Heart Disease  
 ✅ **Blockchain Security** - Immutable, transparent audit trail for data access and predictions  
-✅ **Explainable AI** - SHAP visualizations help doctors understand model decisions  
+✅ **Explainable ML** - SHAP visualizations help doctors understand model decisions  
 ✅ **Seamless Integration** - OCR-powered blood report analysis for automated indicator extraction
 
 ---
