@@ -1,4 +1,6 @@
-# Medical MI Platform for <img width="1600" height="379" alt="309cff82-efe5-4843-b16c-ca48f1c5b9b7" src="https://github.com/user-attachments/assets/91bdc929-4b43-451f-b27c-ba1659cc5129" />
+# Medical MI Platform for Pranachain
+
+<img width="1600" height="379" alt="309cff82-efe5-4843-b16c-ca48f1c5b9b7" src="https://github.com/user-attachments/assets/618d7748-bf0c-406b-a617-6fc8fc083d3a" />
 
 
 <div align="center">
