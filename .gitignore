@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual envs / site-packages
+venv/
+env/
+ENV/
+*/site-packages/
+Final-Prototype/Project-Demo/lib/
+Final-Prototype/Project-Demo/**/site-packages/
+
+# IDE
+.idea/
+.vscode/
+
+# Large model/artifact patterns (use LFS instead)
+*.pkl
+*.pt
+*.h5
+*.ckpt
+
+# OS
+.DS_Store
